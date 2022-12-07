@@ -13,6 +13,17 @@ public class Sample1 {
 		System.out.println(3);
 
 	}
+
+	private void narayanan1() {
+		System.out.println(hello);
+	}
+	private void narayanan2() {
+		System.out.println(hello);
+	}
+
+	private void narayanan3() {
+		System.out.println(hello);
+	}
 	private void Nambi1() {
 		System.out.println("Nambi1");
 
@@ -23,6 +34,6 @@ public class Sample1 {
 	}
 	private void Nambi3() {
 		System.out.println("Nambi3");
-	}
 
+}
 }
